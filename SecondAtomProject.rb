@@ -1,3 +1,3 @@
-1.upto(10) do |x|
+1.upto(100) do |x|
   puts x
 end
