@@ -5,7 +5,10 @@ while count < 101 do
 elsif
   count % 3 == 0
   puts "mined"
-elsif   
+elsif
+  count % 5 == 0
+  puts "minds"
+elsif
     puts count
 end
   count = count + 1
