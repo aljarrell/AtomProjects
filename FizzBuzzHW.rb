@@ -10,7 +10,7 @@ while count < 51 do
     puts "ford"
   elsif
     count % 6 == 0
-    puts "are the best"
+    puts "is the best"
   else
   puts count
 end
